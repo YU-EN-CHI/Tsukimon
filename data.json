@@ -537,6 +537,29 @@
     "adddate": "2025\/04\/28"
   },
   {
+    "md5": "6d5ee6ac6f5c1d7d5cf534d889cb07d7",
+    "org_level": 12,
+    "title": "FINAL FANTASY3 \"BATTLE2\" [Salamander]",
+    "artist": "闇を撒くもの\/obj:つきもん",
+    "folder": "月門2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6adbb7660aa6370f2fdf60d5a0def366",
+      "4fd005b1b5e2ec7abcb608882e9e6ad0",
+      "9ff22e0588da6f919de387d542729bfa",
+      "5cf3a588cf84156c47840e0db078d445",
+      "6d5ee6ac6f5c1d7d5cf534d889cb07d7",
+      "34993418f2af5fa2e9f4e27a852606ee"
+    ],
+    "org_md5": "6adbb7660aa6370f2fdf60d5a0def366",
+    "comment": "",
+    "adddate": "2026\/03\/17"
+  },
+  {
     "md5": "9ff6a2f60fe44d7041c13788526b91ba",
     "org_level": 33,
     "title": "Happico Happico [L3 Insane]",
@@ -2151,6 +2174,22 @@
     "adddate": "2025\/04\/30"
   },
   {
+    "md5": "96ff5ab2afb0b63c5491b00d3b896db2",
+    "org_level": 11,
+    "title": "U.N.オーエンは彼女なのか?-more scarlet ver- [QED]",
+    "artist": "sun3\/obj:月門",
+    "folder": "月門11",
+    "level": "11",
+    "lr2_bmsid": "130600",
+    "url": "http:\/\/www1.axfc.net\/uploader\/He\/so\/362663",
+    "url_diff": "http:\/\/www.geocities.jp\/musicmakeman\/",
+    "name_diff": "http:\/\/www.geocities.jp\/musicmakeman\/",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "2026\/03\/17"
+  },
+  {
     "md5": "f9e26ca79a88891e801173e3b9a172d1",
     "org_level": 12,
     "title": "天叢雲剣 [Maniac]",
@@ -2223,6 +2262,27 @@
     "org_md5": "a7da4da73d8a4714e84c4f0ea447c2e9",
     "comment": "",
     "adddate": "2025\/04\/28"
+  },
+  {
+    "md5": "8d5e7f8a55d8eec55155afb741c84aa8",
+    "org_level": 12,
+    "title": "Scarlet Devil [dkdkdkdk]",
+    "artist": "KIT\/obj.月門",
+    "folder": "月門12",
+    "level": "12",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6af73bcbd1ead98700109dc8c00acb2f",
+      "84f3078a9b5ec58a978f421436b2ee67",
+      "3ea4907815450da0a4a770325c78adfc",
+      "8d5e7f8a55d8eec55155afb741c84aa8"
+    ],
+    "org_md5": "6af73bcbd1ead98700109dc8c00acb2f",
+    "comment": "",
+    "adddate": "2026\/03\/17"
   },
   {
     "md5": "5dec565b58f0c45a678717db6dbf2f3c",
@@ -3996,6 +4056,29 @@
     "org_md5": "c0311f28168a1b9e3a923b0cdeb30a03",
     "comment": "",
     "adddate": "2025\/04\/28"
+  },
+  {
+    "md5": "34993418f2af5fa2e9f4e27a852606ee",
+    "org_level": 12,
+    "title": "FINAL FANTASY3 \"BATTLE2\" [Xande]",
+    "artist": "闇を撒くもの\/obj:つきもん",
+    "folder": "月門21",
+    "level": "21",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "6adbb7660aa6370f2fdf60d5a0def366",
+      "4fd005b1b5e2ec7abcb608882e9e6ad0",
+      "9ff22e0588da6f919de387d542729bfa",
+      "5cf3a588cf84156c47840e0db078d445",
+      "6d5ee6ac6f5c1d7d5cf534d889cb07d7",
+      "34993418f2af5fa2e9f4e27a852606ee"
+    ],
+    "org_md5": "6adbb7660aa6370f2fdf60d5a0def366",
+    "comment": "",
+    "adddate": "2026\/03\/17"
   },
   {
     "md5": "6fad303ec59f0dd6bebdfb2be0503667",
